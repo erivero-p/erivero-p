@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi! I’m Elisa 👋🏻</h1>
   <a href="https://github.com/erivero-p">
-    <img src="https://github.com/erivero-p/erivero-p/raw/main/Github_Banner.png" alt="Banner">
+    <img src="https://github.com/erivero-p/erivero-p/raw/main/Github_Banner_croped2.png" alt="Banner">
   </a>
   <p>I’m currently in the 5th level of the 42’s common core</p>
 
