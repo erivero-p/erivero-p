@@ -3,20 +3,20 @@
   <a href="https://github.com/erivero-p">
     <img src="https://github.com/erivero-p/erivero-p/raw/main/Github_Banner_croped2.png" alt="Banner">
   </a>
-  <p>I’m currently at the 5th level of the 42’s common core</p>
+  <p>I’m currently at the last level of the 42’s common core</p>
 </div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
-<p>
-<div style="float: left; width: 50%;">
-  <ul>
-    <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white"> </li>
-    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </li>
-  </ul>
-</div>
-</p>
 
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills I'm Working On
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,docker,js,html,css" alt="Skills Icons" />
+  </a>
+</div>
+<br>
+
 
 
 <!--
