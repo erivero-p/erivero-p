@@ -4,6 +4,7 @@
     <img src="https://github.com/erivero-p/erivero-p/raw/main/Github_Banner_croped2.png" alt="Banner">
   </a>
   <p>I’m currently at the last level of the 42’s common core</p>
+  <a href="https://erivero-p.github.io/UI_portfolio/"> 🔗 Want to take a look at my job?</a>
 </div>
 
 <br>
